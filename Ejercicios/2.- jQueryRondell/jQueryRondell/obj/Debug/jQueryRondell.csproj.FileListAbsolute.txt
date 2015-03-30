@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\jQueryRondell\jQueryRondell\bin\jQueryRondell.dll
+c:\users\pc\documents\visual studio 2012\Projects\jQueryRondell\jQueryRondell\bin\jQueryRondell.pdb
+c:\users\pc\documents\visual studio 2012\Projects\jQueryRondell\jQueryRondell\obj\Debug\jQueryRondell.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\jQueryRondell\jQueryRondell\obj\Debug\jQueryRondell.dll
+c:\users\pc\documents\visual studio 2012\Projects\jQueryRondell\jQueryRondell\obj\Debug\jQueryRondell.pdb
