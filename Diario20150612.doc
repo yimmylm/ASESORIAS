@@ -1,0 +1,119 @@
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+<h2>DIARIO DE GLUCEMIA</h2>
+<h4>NOMBRE: OSCAR UH P&Eacute;REZ <br/>
+EDAD: 30 A&Ntilde;OS <br/>DIAGN&Oacute;STICO: DM2/SOBREPESO <br/>
+META 1: 77KG  PESO: 80.7KG IMC: 26.1 % GRASA:22.800</h4>
+<table class="table table-bordered" border="1">
+ <tr>
+		<th>FECHA </th>
+        <th>AYUNA</th>
+         <th>POSTPANDRAL d&iacute;a</th>
+          <th>POSTPANDRAL Noche</th>
+	</tr>
+    
+      <tr>
+		<td >2015-05-22</td>
+        <td class="success" ><strong>150</strong> mg/dl - ( 08:00:00)</td>
+         <td class="warning"><strong>189</strong> mg/dl -( 17:40:00)</td>
+         <td class="info" ><strong>133</strong> mg/dl -( 23:00:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-05-24</td>
+        <td class="success" ><strong>101</strong> mg/dl - ( 06:00:00)</td>
+         <td class="warning"><strong>120</strong> mg/dl -( 16:00:00)</td>
+         <td class="info" ><strong>164</strong> mg/dl -( 22:30:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-05-26</td>
+        <td class="success" ><strong>94</strong> mg/dl - ( 08:00:00)</td>
+         <td class="warning"><strong>126</strong> mg/dl -( 15:28:00)</td>
+         <td class="info" ><strong>145</strong> mg/dl -( 23:30:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-05-28</td>
+        <td class="success" ><strong>103</strong> mg/dl - ( 07:30:00)</td>
+         <td class="warning"><strong>96</strong> mg/dl -( 15:00:00)</td>
+         <td class="info" ><strong>91</strong> mg/dl -( 23:00:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-05-30</td>
+        <td class="success" ><strong>82</strong> mg/dl - ( 08:30:00)</td>
+         <td class="warning"><strong>113</strong> mg/dl -( 15:30:00)</td>
+         <td class="info" ><strong>89</strong> mg/dl -( 22:30:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-01</td>
+        <td class="success" ><strong>85</strong> mg/dl - ( 06:40:00)</td>
+         <td class="warning"><strong>96</strong> mg/dl -( 15:30:00)</td>
+         <td class="info" ><strong>101</strong> mg/dl -( 22:00:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-03</td>
+        <td class="success" ><strong>88</strong> mg/dl - ( 05:30:00)</td>
+         <td class="warning"><strong>109</strong> mg/dl -( 16:00:00)</td>
+         <td class="info" ><strong>133</strong> mg/dl -( 23:45:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-05</td>
+        <td class="success" ><strong>93</strong> mg/dl - ( 06:45:00)</td>
+         <td class="warning"><strong>90</strong> mg/dl -( 15:30:00)</td>
+         <td class="info" ><strong>99</strong> mg/dl -( 23:55:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-07</td>
+        <td class="success" ><strong>85</strong> mg/dl - ( 07:30:00)</td>
+         <td class="warning"><strong>126</strong> mg/dl -( 16:28:00)</td>
+         <td class="info" ><strong>98</strong> mg/dl -( 23:50:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-09</td>
+        <td class="success" ><strong>84</strong> mg/dl - ( 07:30:00)</td>
+         <td class="warning"><strong>106</strong> mg/dl -( 15:35:00)</td>
+         <td class="info" ><strong>105</strong> mg/dl -( 23:45:00)</td>
+         
+	</tr>
+
+	
+	    <tr>
+		<td >2015-06-11</td>
+        <td class="success" ><strong>84</strong> mg/dl - ( 08:00:00)</td>
+         <td class="warning"><strong>87</strong> mg/dl -( 15:45:00)</td>
+         <td class="info" ></td>
+         
+	</tr>
+
+	
+	    
+</table>
+<br/>
+<br/>
+<span>LN. Sindy E. Evia Heredia M.P.S.</span>
