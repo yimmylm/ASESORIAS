@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\MonitorEquipos\MonitorEquipos\bin\MonitorEquipos.dll
+c:\users\pc\documents\visual studio 2012\Projects\MonitorEquipos\MonitorEquipos\bin\MonitorEquipos.pdb
+c:\users\pc\documents\visual studio 2012\Projects\MonitorEquipos\MonitorEquipos\obj\Debug\MonitorEquipos.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\MonitorEquipos\MonitorEquipos\obj\Debug\MonitorEquipos.dll
+c:\users\pc\documents\visual studio 2012\Projects\MonitorEquipos\MonitorEquipos\obj\Debug\MonitorEquipos.pdb
