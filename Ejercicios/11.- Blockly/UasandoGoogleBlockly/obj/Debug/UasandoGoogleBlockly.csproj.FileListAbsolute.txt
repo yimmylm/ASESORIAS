@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2012\Projects\UasandoGoogleBlockly\UasandoGoogleBlockly\bin\UasandoGoogleBlockly.dll
+c:\users\pc\documents\visual studio 2012\Projects\UasandoGoogleBlockly\UasandoGoogleBlockly\bin\UasandoGoogleBlockly.pdb
+c:\users\pc\documents\visual studio 2012\Projects\UasandoGoogleBlockly\UasandoGoogleBlockly\obj\Debug\UasandoGoogleBlockly.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\UasandoGoogleBlockly\UasandoGoogleBlockly\obj\Debug\UasandoGoogleBlockly.dll
+c:\users\pc\documents\visual studio 2012\Projects\UasandoGoogleBlockly\UasandoGoogleBlockly\obj\Debug\UasandoGoogleBlockly.pdb
