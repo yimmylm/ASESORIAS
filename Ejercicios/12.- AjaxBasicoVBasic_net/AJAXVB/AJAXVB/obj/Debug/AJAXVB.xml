@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AJAXVB
+</name>
+</assembly>
+<members>
+<member name="F:AJAXVB.AjaxBasico.form1">
+	<summary>
+Control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.ScriptManager1">
+	<summary>
+Control ScriptManager1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.UpdatePanel1">
+	<summary>
+Control UpdatePanel1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.a">
+	<summary>
+Control a.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.b">
+	<summary>
+Control b.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.resultado">
+	<summary>
+Control resultado.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:AJAXVB.AjaxBasico.Button1">
+	<summary>
+Control Button1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="P:AJAXVB.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:AJAXVB.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:AJAXVB.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:AJAXVB.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:AJAXVB.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:AJAXVB.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

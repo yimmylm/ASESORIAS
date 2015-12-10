@@ -1,0 +1,8 @@
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\bin\AJAXVB.dll
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\bin\AJAXVB.pdb
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\bin\AJAXVB.xml
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\obj\Debug\AJAXVB.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\obj\Debug\AJAXVB.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\obj\Debug\AJAXVB.dll
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\obj\Debug\AJAXVB.xml
+c:\users\pc\documents\visual studio 2012\Projects\AJAXVB\AJAXVB\obj\Debug\AJAXVB.pdb
