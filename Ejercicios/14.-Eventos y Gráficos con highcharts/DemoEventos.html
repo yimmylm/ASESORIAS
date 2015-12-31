@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Usando highcharts </title>
+    <meta charset="utf-8" />
+	 
+     <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+	 <script src="https://code.highcharts.com/highcharts.js"></script>
+	 <script src="https://code.highcharts.com/highcharts-3d.js"></script>
+	 <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    
+     
+</head>
+<body>
+    <!-- información clic -->
+    <!-- Modal -->
+<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Entrerios vasconia</h4>
+      </div>
+      <div class="modal-body">
+        <table class="table table-bordered"> 
+		<thead> <tr> 
+		       <th>#</th> 
+		       <th>Centro de costos</th> 
+			   <th>Inc</th> 
+			   <th>fecha</th>
+			   <th>Ctacontable</th> 
+			  </tr> </thead>
+		<tbody> 
+		<tr> 
+		     <th scope="row">1</th> 
+	  	     <td>Entrerios vasconia</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr> 
+		<tr> <th scope="row">2</th> 
+		     <td>Entrerios vasconia</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr>
+		<tr> 
+			<th scope="row">3</th> 
+			<td>Entrerios vasconia</td> 
+			<td>Ang15-18</td> 
+			<td>30 agosto</td>
+			<td>41450501</td> 
+		</tr> 
+		</tbody> </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Kusuana Villanueva</h4>
+      </div>
+      <div class="modal-body">
+        <table class="table table-bordered"> 
+		<thead> <tr> 
+		       <th>#</th> 
+		       <th>Centro de costos</th> 
+			   <th>Inc</th> 
+			   <th>fecha</th>
+			   <th>Ctacontable</th> 
+			  </tr> </thead>
+		<tbody> 
+		<tr> 
+		     <th scope="row">1</th> 
+	  	     <td>Kusuana Villanueva</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr> 
+		<tr> <th scope="row">2</th> 
+		     <td>Kusuana Villanueva</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr>
+		<tr> 
+			<th scope="row">3</th> 
+			<td>Kusuana Villanueva</td> 
+			<td>Ang15-18</td> 
+			<td>30 agosto</td>
+			<td>41450501</td> 
+		</tr> 
+		</tbody> </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Hakana Akira</h4>
+      </div>
+      <div class="modal-body">
+        <table class="table table-bordered"> 
+		<thead> <tr> 
+		       <th>#</th> 
+		       <th>Centro de costos</th> 
+			   <th>Inc</th> 
+			   <th>fecha</th>
+			   <th>Ctacontable</th> 
+			  </tr> </thead>
+		<tbody> 
+		<tr> 
+		     <th scope="row">1</th> 
+	  	     <td>Hakana Akira</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr> 
+		<tr> <th scope="row">2</th> 
+		     <td>Hakana Akira</td> 
+			 <td>Ang15-18</td> 
+			 <td>30 agosto</td>
+			 <td>41450501</td> 
+		</tr>
+		<tr> 
+			<th scope="row">3</th> 
+			<td>Hakana Akira</td> 
+			<td>Ang15-18</td> 
+			<td>30 agosto</td>
+			<td>41450501</td> 
+		</tr> 
+		</tbody> </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    <!-- -->
+    
+    
+   <div id="grafica" style="height: 400px"></div>
+    <script>
+     $(function () {
+    $('#grafica').highcharts({chart: {type: 'pie',options3d: {enabled: true,alpha: 45,beta: 0}},title: {text: 'Ingresos por centro de costo'},
+        tooltip: {pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'},
+        plotOptions: {pie: {allowPointSelect: true,cursor: 'pointer',depth: 35,dataLabels: {enabled: true,format: '{point.name}'}}
+        },
+        series: [{type: 'pie',name: 'Centros',
+        data: [
+               {id:1,name: 'Entrerios vasconia ',y: 45.0,events: {click: function (e) {MostrarInfo(this);}}},
+               {id:2,name: 'Hakana Akira',y: 26.8,events: {click: function (e) {MostrarInfo(this);}}},
+               {id:3,name: 'Kusuana Villanueva',y: 8.5,events: {click: function (e) {MostrarInfo(this);}}},
+			]
+        }]
+    });
+	
+       function MostrarInfo(Elemento){
+           
+            $('#modal'+Elemento.id).modal('show');
+           
+       }  
+         
+	
+});
+    </script>
+</body>
+</html>
