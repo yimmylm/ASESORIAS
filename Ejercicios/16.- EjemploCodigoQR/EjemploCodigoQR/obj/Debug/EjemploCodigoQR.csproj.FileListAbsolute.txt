@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\EjemploCodigoQR.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\EjemploCodigoQR.exe
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\EjemploCodigoQR.pdb
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\Gma.QrCodeNet.Encoding.dll
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\bin\Debug\Gma.QrCodeNet.Encoding.xml
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.exe
+c:\users\pc\documents\visual studio 2012\Projects\EjemploCodigoQR\EjemploCodigoQR\obj\Debug\EjemploCodigoQR.pdb
