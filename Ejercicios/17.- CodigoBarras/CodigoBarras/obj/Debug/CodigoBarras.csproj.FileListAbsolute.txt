@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\bin\Debug\CodigoBarras.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\bin\Debug\CodigoBarras.exe
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\bin\Debug\CodigoBarras.pdb
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\bin\Debug\BarcodeLib.dll
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.exe
+c:\users\pc\documents\visual studio 2012\Projects\CodigoBarras\CodigoBarras\obj\Debug\CodigoBarras.pdb
