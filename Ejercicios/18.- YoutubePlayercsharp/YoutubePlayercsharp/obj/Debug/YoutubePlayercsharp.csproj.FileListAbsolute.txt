@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\bin\Debug\YoutubePlayercsharp.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\bin\Debug\YoutubePlayercsharp.exe
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\bin\Debug\YoutubePlayercsharp.pdb
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\bin\Debug\Newtonsoft.Json.dll
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\bin\Debug\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.exe
+c:\users\pc\documents\visual studio 2012\Projects\YoutubePlayercsharp\YoutubePlayercsharp\obj\Debug\YoutubePlayercsharp.pdb
