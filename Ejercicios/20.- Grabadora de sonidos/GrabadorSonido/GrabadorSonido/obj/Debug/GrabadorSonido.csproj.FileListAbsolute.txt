@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\bin\Debug\GrabadorSonido.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\bin\Debug\GrabadorSonido.exe
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\bin\Debug\GrabadorSonido.pdb
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.exe
+c:\users\pc\documents\visual studio 2012\Projects\GrabadorSonido\GrabadorSonido\obj\Debug\GrabadorSonido.pdb
