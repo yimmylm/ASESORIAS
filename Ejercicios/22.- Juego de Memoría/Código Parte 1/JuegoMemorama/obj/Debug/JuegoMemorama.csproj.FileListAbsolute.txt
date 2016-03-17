@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\bin\Debug\JuegoMemorama.pdb
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMemorama\JuegoMemorama\obj\Debug\JuegoMemorama.pdb
