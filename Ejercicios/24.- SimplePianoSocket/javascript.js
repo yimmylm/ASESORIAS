@@ -8,6 +8,9 @@ $(document).ready(function(){
 			if(obj.clase=="white_btn"){
 			  reproducir(obj.tecla,"");
 			}
+			if(obj.clase=="black_btn_first"){
+			  reproducir(obj.tecla,"b");
+			}
 			if(obj.clase=="black_btn_second"){
 			  reproducir(obj.tecla,"b");
 			}
@@ -34,7 +37,7 @@ $(document).ready(function(){
     });
     
    $(".black_btn_first").click(function(){
-        send($(this).val(),'black_btn_second');
+        send($(this).val(),'black_btn_first');
        reproducir( $(this).val(),"b");
 
     });
