@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\PiedraPapelTijeras.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\PiedraPapelTijeras.exe
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\bin\Debug\PiedraPapelTijeras.pdb
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.exe
+c:\users\pc\documents\visual studio 2012\Projects\PiedraPapelTijeras\PiedraPapelTijeras\obj\Debug\PiedraPapelTijeras.pdb
