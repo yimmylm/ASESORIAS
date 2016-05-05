@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\bin\Debug\JuegoMarmota.pdb
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.exe
+c:\users\pc\documents\visual studio 2012\Projects\JuegoMarmota\JuegoMarmota\obj\Debug\JuegoMarmota.pdb
