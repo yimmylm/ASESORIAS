@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\bin\Debug\CaputarPantalla.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\bin\Debug\CaputarPantalla.exe
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\bin\Debug\CaputarPantalla.pdb
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.exe
+c:\users\pc\documents\visual studio 2012\Projects\CaputarPantalla\CaputarPantalla\obj\Debug\CaputarPantalla.pdb
