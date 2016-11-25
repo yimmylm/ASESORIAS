@@ -119,7 +119,24 @@ namespace JuegoTicTacToe
             {
                 YaHayGanador = true;
             }
+            else {
+                bool Empate = true;
+                for (var i = 0; i < TamanioGato; i++)
+                {
+                    for (var j = 0; j < TamanioGato; j++)
+                    {
+                        if (Gato[i, j] == 0) {
+                            Empate = false;
+                        }
 
+                    }
+                }
+                if(Empate){
+                    MessageBox.Show("Esto es un empate ¡Reinicia el juego!");
+                    IniciarJuego();
+                }
+            
+            }
             if (YaHayGanador){
                 
                 MessageBox.Show("Ya hay ganador");
