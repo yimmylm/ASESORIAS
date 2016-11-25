@@ -57,6 +57,7 @@ namespace JuegoTicTacToe
         private void Jugar(object sender, EventArgs e) {
 
             var FichaSeleccionadaUsuario = (PictureBox)sender;
+            FichaSeleccionadaUsuario.Enabled = false;
             FichaSeleccionadaUsuario.Image = (Bitmap)Properties.Resources.ResourceManager.GetObject("f_" + turno);
             string[] Posicion = FichaSeleccionadaUsuario.Name.Split("_".ToCharArray());
             int Fila = Convert.ToInt32(Posicion[0]);
